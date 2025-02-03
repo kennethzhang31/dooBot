@@ -1,0 +1,10 @@
+*.mp4
+*.zip
+*.tar.gz
+*.csv
+large_files/
+data/
+.env
+.env.local
+.env.development
+.env.production
